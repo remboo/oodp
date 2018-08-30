@@ -1,0 +1,10 @@
+target/
+.idea/
+out/
+.gradle/
+nb-configuration.xml
+*.iml
+.project/
+.settings/
+.build/
+.classpath/
